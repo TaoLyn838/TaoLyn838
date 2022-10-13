@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+My name is Chengtao Lin, a senior student at University of Massachusetts Boston majoring in Computer Science. Java is my primary programming language that I am familiar with most. Currently, I am learning a few programming languages, such as Swift and SQL. 
+
+
 <img src="https://github-readme-stats.vercel.app/api?username=TaoLyn838&theme=blue-green"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaoLyn838&theme=blue-green"/>
