@@ -41,6 +41,5 @@ My name is Chengtao Lin, a senior student at University of Massachusetts Boston 
   
 ### 📊 GitHub Stats
 ---
-<img src="https://github-readme-stats.vercel.app/api?username=TaoLyn838&theme=blue-green"/> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaoLyn838&theme=blue-green"/>
+<img src="https://github-readme-stats.vercel.app/api?username=TaoLyn838&theme=blue-green"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaoLyn838&theme=blue-green"/>
 
