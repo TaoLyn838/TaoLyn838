@@ -14,13 +14,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Chengtao Lin, a senior student at University of Massachusetts Boston majoring in Computer Science. My primary and familiar programming language is Java.  Currently, I am learning a few programming languages, such as Swift and SQL. 
-### My Status
+My name is Chengtao Lin, a senior student at University of Massachusetts Boston majoring in Computer Science. My primary and familiar programming language is Java.
+<!-- Currently, I am learning a few programming languages, such as Swift and SQL.  -->
+<!-- ### My Status
 ---
 🔭 I’m currently working on my side project LearnJAN. It is an iOS mobile flashcards App used for studying and memory of Hiragana and Katakana.
 <br/>
 🌱 I’m currently learning SQL, Swift, J-- compiler, and Japanese this semester.
-<br/>
+<br/> -->
 
 
 ### Technical Skills
@@ -39,7 +40,7 @@ My name is Chengtao Lin, a senior student at University of Massachusetts Boston 
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"/> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/> 
  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>  <img src="https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white"/> <img src="https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=for-the-badge&logo=gnu-emacs&logoColor=white"/> <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white"/> <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/>
   
-### 📊 GitHub Stats
+<!-- ### 📊 GitHub Stats
 ---
-<img src="https://github-readme-stats.vercel.app/api?username=TaoLyn838&theme=blue-green"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaoLyn838&theme=blue-green"/>
+<img src="https://github-readme-stats.vercel.app/api?username=TaoLyn838&theme=blue-green"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaoLyn838&theme=blue-green"/> -->
 
