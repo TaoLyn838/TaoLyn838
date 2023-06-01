@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Chengtao Lin, a senior student at University of Massachusetts Boston majoring in Computer Science. My primary and familiar programming language is Java.
+My name is Chengtao Lin, a senior student at University of Massachusetts Boston majoring in Computer Science. My primary and familiar programming language is Java. I am currently studying in react and swift.
 <!-- Currently, I am learning a few programming languages, such as Swift and SQL.  -->
 <!-- ### My Status
 ---
