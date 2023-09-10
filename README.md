@@ -23,7 +23,7 @@ My name is Chengtao Lin, a senior student at University of Massachusetts Boston 
 🌱 I’m currently learning SQL, Swift, J-- compiler, and Japanese this semester.
 <br/> -->
 🔭 I have been actively learning Python, SwiftUI, and React.<br>
-🌱 Currently taking Codepath's Intermediate Web Development to learn more about React, and CS470:Artificial Intelligence course in UMass Boston<br> 
+🌱 Currently taking Codepath's Intermediate Web Development to learn more about React, as well as the CS470: Artificial Intelligence course at UMass Boston.<br> 
 
 
 
