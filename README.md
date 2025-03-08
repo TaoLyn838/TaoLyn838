@@ -14,16 +14,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Chengtao Lin, a senior student at University of Massachusetts Boston majoring in Computer Science. My primary and familiar programming language is Java.
+My name is Chengtao Lin, and I am a graduate student at the University of Massachusetts Amherst majoring in Computer Science.
 <!-- Currently, I am learning a few programming languages, such as Swift and SQL.  -->
 <!-- ### My Status
 ---
 🔭 I’m currently working on my side project LearnJAN. It is an iOS mobile flashcards App used for studying and memory of Hiragana and Katakana.
 <br/>
 🌱 I’m currently learning SQL, Swift, J-- compiler, and Japanese this semester.
-<br/> -->
 🔭 I have been actively learning Python, SwiftUI, and React.<br>
 🌱 Currently taking Codepath's Intermediate Web Development to learn more about React, as well as the CS470: Artificial Intelligence course at UMass Boston.<br> 
+<br/> -->
 
 
 
